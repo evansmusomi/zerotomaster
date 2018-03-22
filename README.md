@@ -7,3 +7,9 @@ Focus Areas:
 * HTML
 * CSS
 * Javascript
+
+# Projects
+
+1.  [Wild Life](wild-life): Using CSS Flexbox to create a responsive photo display
+2.  [Robot](robot): Building a simple, slightly-animated Robot with CSS
+3.  [Simple To-do](simple-todo): Building a simple to-do app with vanilla JS
