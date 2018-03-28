@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Suits Cast
 
-A card-based React app that lets you view popular Suits Cast members or search for a specific member.
+A card-based React app that fetches a cast of 'robot' actors and their profiles from external APIs and lets you search the cast for specific actors 😉
