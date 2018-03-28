@@ -13,3 +13,4 @@ Focus Areas:
 1.  [Wild Life](wild-life): Using CSS Flexbox to create a responsive photo display
 2.  [Robot](robot): Building a simple, slightly-animated Robot with CSS
 3.  [Simple To-do](simple-todo): Building a simple to-do app with vanilla JS
+4.  [Robot Cast](robot-cast): Building a simple search, API-backed application with React JS
